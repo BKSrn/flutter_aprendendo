@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:new_project/screens/ciclo_statefull.dart';
+import 'package:new_project/screens/ciclo_stateful.dart';
 
 class CicloStatefulParent extends StatefulWidget {
   const CicloStatefulParent({super.key});

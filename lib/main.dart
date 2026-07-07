@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:new_project/screens/ciclo_stateful_parent.dart';
-import 'package:new_project/screens/ciclo_statefull.dart';
+import 'package:new_project/screens/ciclo_stateful.dart';
 import 'package:new_project/screens/contador.dart';
 import 'package:new_project/screens/widgets_conteudo.dart';
 import 'package:new_project/screens/widgets_layout.dart';
