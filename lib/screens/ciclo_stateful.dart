@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 class CicloStateful extends StatefulWidget {
   final Color cor;
-  const CicloStateful({super.key, required this.cor});
 
+  const CicloStateful({super.key, required this.cor});
 
   @override
   State<CicloStateful> createState() => new _CicloStatefulState();
